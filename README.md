@@ -47,8 +47,4 @@ Please note:
 
 Prediction sample
 ========================
-See 
-```
-prediction_sample_random_forest.ipynb 
-```
-for a machine learning prediction sample.
+See [directory]prediction_sample_random_forest.ipynb for a machine learning prediction sample.
