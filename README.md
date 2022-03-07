@@ -44,3 +44,11 @@ Please note:
 * The RSS value -200 dBm indicates that the AP is too far away from the current reference point and no signals could be heard from it. 
 
 * The RTT value 100,000 mm indicates that no signal is received from the specific AP.
+
+Prediction sample
+========================
+See 
+```
+prediction_sample_random_forest.ipynb 
+```
+for a machine learning prediction sample.
