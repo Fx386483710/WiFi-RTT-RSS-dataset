@@ -56,7 +56,7 @@ Notes: A LOS scenario
 
 The features of the apartment dataset are as follows:
 ```
-Testbed area:	4.5 × 5.5 m2
+Testbed area:	7.7 × 9.4 m2
 Grid size: 0.48 × 0.48 m2
 Reference points: 110
 Samples per reference point: 120
