@@ -91,3 +91,13 @@ Please note:
 Prediction sample
 ========================
 See [here](prediction_sample_random_forest.ipynb) for a machine learning prediction sample.
+
+Citation request
+========================
+When using this dataset, please cite the following two items:
+```
+Feng, X., Nguyen, K. A., & Luo, Z. (2024). WiFi RTT RSS dataset for indoor positioning [Data set]. Zenodo. https://doi.org/10.5281/zenodo.11558192
+```
+```
+@article{feng2023wifi, title={WiFi round-trip time (RTT) fingerprinting: an analysis of the properties and the performance in non-line-of-sight environments}, author={Feng, Xu and Nguyen, Khuong an and Luo, Zhiyuan}, journal={Journal of Location Based Services}, volume={17}, number={4}, pages={307--339}, year={2023}, publisher={Taylor \& Francis} }
+```
