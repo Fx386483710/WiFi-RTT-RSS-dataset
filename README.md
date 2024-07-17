@@ -15,7 +15,8 @@ Below is the layout of the testbed. The orange dots indicate the locations of th
 
 Office scenario is of more than 4.5 x 5.5 metres. 3 APs are set to cover the whole space. At least two LOS AP could be seen at any reference point (RP).
 Below is the layout of the testbed. The orange dots indicate the locations of the RTT-enabled Access Point (AP). All measurements are taken in the grey area.
-![room_testbed](https://github.com/Fx386483710/WiFi-RTT-RSS-dataset/assets/101070586/7687d697-56b2-4974-81d9-85f6ed80e0fa)
+![room_testbed_new](https://github.com/user-attachments/assets/a3b58210-5873-47b6-a26f-57daf3615846)
+
 
 3. Apartment
 Apartment scenario is of more than  7.7 x 9.4 metres.Four APs were leveraged to generate WiFi signal measures for this testbed. Note that AP 1 in the apartment dataset was positioned so that it could had an NLOS path to most of the testbed. 
